@@ -7,7 +7,7 @@
       <a href="#" class="logo">foodies</a>
 
       <nav class="navbar">
-         <a href="admin.php">add products</a>
+         <a href="index.php">add products</a>
          <a href="products.php">view products</a>
       </nav>
 
