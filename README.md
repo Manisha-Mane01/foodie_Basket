@@ -27,13 +27,13 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">The Food Order Management System isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
 <b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">Empowers the Chatbot to understand user queries and provide accurate responses based on the FAQs database.</p>
+<b>Azure AI Chatbot Service :</b><br><br><p align="justify">Empowers the Chatbot to understand user queries and provide accurate responses based on the FAQs database.</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
@@ -65,6 +65,6 @@ Azure AI Service <br>
 The Food Order Management System with Azure AI Chatbot Integration is a comprehensive solution that addresses the challenges of traditional food ordering systems. Leveraging Azure App Service and Azure MySQL Database ensures a scalable and secure environment for hosting the application and managing data. The incorporation of Azure AI Services enhances user support by providing an intelligent Chatbot capable of addressing user queries and offering quick access to a detailed FAQs section. The project not only streamlines food order operations but also sets the foundation for further enhancements and innovations in user interaction and support.
 </p>
 <p align="justify">
-<b>As we finish, theFoodie Basket: Hassle-free Ordering isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>As we finish, Foodie Basket: Hassle-free Ordering isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
 </h2><b><a href="https://foodiebasket.azurewebsites.net/">Foodie Basket: Hassle-free Ordering Web App using Azure AI ChatBot Service</b></a>
