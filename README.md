@@ -35,7 +35,7 @@ Azure AI Service <br>
 <h2>Azure AI Service</h2>
 <b>Azure AI Chatbot Service :</b><br><br><p align="justify">Empowers the Chatbot to understand user queries and provide accurate responses based on the FAQs database.</p>
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
+<p align="justify">In Food Order Management System, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
 <b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
 <b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
