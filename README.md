@@ -6,7 +6,7 @@
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> https://github.com/Manisha-Mane01/foodie_Basket.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
-<h2>Azure Services Used</h2>
+<h2>Azure Services Used </h2>
 <h3>
 Core Azure Services : <br>
 1. Azure App Service <br>
