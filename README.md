@@ -10,7 +10,7 @@
 <h3>
 Core Azure Services : <br>
 1. Azure App Service <br>
-2. Azure SQL Database <br> <br>
+2. Azure SQL Database<br> <br>
 Azure AI Service <br>
 1. Azure AI ChatBot
 </h3>
